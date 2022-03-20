@@ -1,0 +1,23 @@
+{
+    "name": "fast-json-collection",
+    "version": "1.0.0",
+    "description": "Simple fast JSON collection",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/DomeQdev/json-collection.git"
+    },
+    "keywords": [
+      "json",
+      "db",
+      "database",
+      "storage",
+      "engine",
+      "simple",
+      "node",
+      "nodejs"
+    ],
+    "author": "DomeQ",
+    "license": "MIT",
+    "homepage": "https://github.com/DomeQdev/json-collection"
+}
